@@ -1,0 +1,12 @@
+{
+'toy_model' : '',
+'ecoli_core' : 'BOUNDARY',
+'helico_iit341' : 'BOUNDARY',
+'ecoli_iaf1260' : 'BOUNDARY',
+'ecoli_ijo1366' : 'BOUNDARY',
+'saccaro_ind750' : 'BOUNDARY',
+'homo_recon1' : 'BOUNDARY',
+'mbarkeri_iaf692' : 'BOUNDARY',
+'arabidopsis_irs1597' : 'BOUNDARY',
+'mus_imm1415' : 'BOUNDARY',
+}
