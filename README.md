@@ -15,8 +15,8 @@ Newman,
 Poolman,
 Sridharan,
 Muller,
-Verwoerd
-And the list of criteria for evaluate methods is as follow:
+Verwoerd.
+The list of criteria for evaluate methods is as follow:
 cohesion_coupling
 efficacy,
 go_distance_bp_F,
@@ -28,4 +28,4 @@ go_distance_mf_G,
 modularity,
 module_count,
 coexpression_of_enzymes,
-chebi_distance.
+chebi_distance. These criteria implemented in "evaluation" file in python.
