@@ -1,0 +1,12 @@
+{
+'toy_model' : 1e-10,
+'ecoli_core' : 1e-10,      #-15
+'helico_iit341' : 1e-10,   #-13
+'ecoli_iaf1260' : 1e-10,   #-14
+'ecoli_ijo1366' : 1e-7,    #-8
+'saccaro_ind750' : 1e-10,  #-14
+'homo_recon1' : 1e-10,     #-12
+'mbarkeri_iaf692' : 1e-10, #-12
+'arabidopsis_irs1597' : 1e-9,  #-12
+'mus_imm1415' : 1e-10,  #-12
+}
