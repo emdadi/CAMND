@@ -15,7 +15,7 @@ Newman,
 Poolman,
 Sridharan,
 Muller,
-Verwoerd.
+Verwoerd. The files corresponding to each method includes the implemented codes of them.
 The list of criteria for evaluate methods is as follow:
 cohesion_coupling
 efficacy,
@@ -28,4 +28,4 @@ go_distance_mf_G,
 modularity,
 module_count,
 coexpression_of_enzymes,
-chebi_distance. These criteria implemented in "evaluation" file in python.
+chebi_distance. These criteria implemented in "evaluation" file.
