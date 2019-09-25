@@ -29,3 +29,4 @@ modularity,
 module_count,
 coexpression_of_enzymes,
 chebi_distance. These criteria implemented in "criteria" file.
+(For running each criterion, the user need the ".xml" file, chebi, Co-expression, and GO information corresponding to each species.)
