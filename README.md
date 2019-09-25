@@ -28,4 +28,4 @@ go_distance_mf_G,
 modularity,
 module_count,
 coexpression_of_enzymes,
-chebi_distance. These criteria implemented in "evaluation" file.
+chebi_distance. These criteria implemented in "critera" file.
